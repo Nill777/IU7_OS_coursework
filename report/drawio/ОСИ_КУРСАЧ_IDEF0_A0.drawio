@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Страница — 1" id="335-q3sGRdfL_SDS4h_P">
+    <mxGraphModel dx="1426" dy="1249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UqZj2DvF0YL842BG-D-l-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454.61" y="389" as="targetPoint" />
+            <mxPoint x="454.69196078431366" y="237" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-26" value="USB&lt;br&gt;контроллер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.2559" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-1" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-theme-font:&amp;lt;br/&amp;gt;minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;Визуализация системных ресурсов на клавиатуре&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321.11" y="133" width="268" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454.61" y="-20" as="targetPoint" />
+            <mxPoint x="454.61" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-19" value="карта клавиш" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-15" vertex="1" connectable="0">
+          <mxGeometry x="0.2473" relative="1" as="geometry">
+            <mxPoint x="-1" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="389" as="targetPoint" />
+            <mxPoint x="387" y="237" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-25" value="исходный код&lt;br&gt;модуля" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.1769" y="-4" relative="1" as="geometry">
+            <mxPoint x="2" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="389" as="targetPoint" />
+            <mxPoint x="520" y="237" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-27" value="клавиатура" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.2164" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148.1088854980469" y="184.5" as="targetPoint" />
+            <mxPoint x="321.11" y="184.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-30" value="подключение клавиатуры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0585" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="728.4433740234375" y="184.5" as="targetPoint" />
+            <mxPoint x="589.1100000000001" y="184.50000000000023" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UqZj2DvF0YL842BG-D-l-33" value="визуальная&lt;br&gt;индикация" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="UqZj2DvF0YL842BG-D-l-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.1823" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
